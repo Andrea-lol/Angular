@@ -1,0 +1,7 @@
+SOFTWARES NECESARIOS:
+
+* Node.js
+*NPM (Node Package Manager)
+*Angular CLI (Command Line Interface)
+*Visual Studio Code
+*Git (Opcional)
