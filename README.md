@@ -24,5 +24,5 @@
 
 
 
-### ***Créditos***
-➡️ Gran parte de la información de este repositorio se basa en el curso de Angular de [pildorasinformaticas]([https://pages.github.com/](https://www.youtube.com/@pildorasinformaticas)).
+### ***Créditos*** 🥇
+➡️ Gran parte de la información de este repositorio se basa en el curso de Angular de [pildorasinformaticas]([https://pages.github.com/](https://www.youtube.com/@pildorasinformaticas).
