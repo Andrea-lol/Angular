@@ -7,9 +7,9 @@
   
   --> Aplicaciones de una sola página.
   
+  ![SPA](https://github.com/Andrea-lol/Angular/blob/main/Explicación%20SPA.png)
   
-  ```
-  ```
+  
 
 ### 2️⃣ ***¿Cuáles son sus Caracterísiticas?*** 📑
 
