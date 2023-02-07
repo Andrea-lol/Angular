@@ -32,6 +32,9 @@
 ### 3️⃣ ***¿Cómo es su Estructura?***
 
 ![Estructura](https://github.com/Andrea-lol/Angular/blob/main/Estrucutura.png)
+
+
+
 ![EstructuraProject](https://github.com/Andrea-lol/Angular/blob/main/Estructura%20Proyecto.jpg)
 
 
