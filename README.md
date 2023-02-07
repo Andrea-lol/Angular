@@ -1,7 +1,7 @@
 # Angular
 
 ### 1️⃣ ***¿Qué es Angular?*** ⁉️
-    ➡️ Es un framework creador por Google que busca crear aplicaciones de una sola página (SPA - Single Page Application).
+    ➡️ Es un framework creador por Google que busca crear aplicaciones de una sola página.
     
   *****¿Qué es SPA?*****
   
@@ -31,7 +31,7 @@
 
 ### 3️⃣ ***¿Cómo es su Estructura?***
 
-
+![Estructura](https://github.com/Andrea-lol/Angular/blob/main/Estrucutura.png)
 
 
 ### 4️⃣ ***Créditos*** 🥇
