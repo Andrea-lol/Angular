@@ -5,11 +5,12 @@
     
   *****¿Qué es SPA?*****
   
-  --> Aplicaciones de una sola página.
+  ➡️ Aplicaciones de una sola página (Una única página que se carga en la petición inicial y sobre esa página se van modificando cosas).
   
   ![SPA](https://github.com/Andrea-lol/Angular/blob/main/Explicación%20SPA.png)
   
-  
+  1. AJAX : Responsable de enviar la petición del cliente al servidor para posteriormente enviarle un JSON. 
+  2. JSON (JavaScript Object Notation) : Archivo de texto que permite intercambiar datos entre el cliente y el servidor.
 
 ### 2️⃣ ***¿Cuáles son sus Caracterísiticas?*** 📑
 
